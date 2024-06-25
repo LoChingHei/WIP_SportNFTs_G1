@@ -1,0 +1,25 @@
+{
+    "name": "Huskies 002",
+    "address": "0002",
+    "description": "You are the SECOND member of Huskies!",
+    "image": "https://bafybeicm4ox4ykmdbt7mi3gk2g4emztxcg3qdm5ohl4i4lksv4vuoa4qdm.ipfs.cf-ipfs.com/",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Price",
+            "value": 0.01
+        },
+        {
+            "trait_type": "Year Mint",
+            "value": "2024"
+        },
+        {
+            "trait_type": "Team",
+            "value": "Huskies"
+        },
+        {
+            "trait_type": "Membership type",
+            "value": "Premium"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Huskies 003",
+    "address": "0003",
+    "description": "You are the THIRD member of Huskies!",
+    "image": "https://bafybeibgjsjemlmaftegwztdkgwgr6ncerdtipp4kaksgx5wjj25ghbjdq.ipfs.cf-ipfs.com/",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Price",
+            "value": 0.01
+        },
+        {
+            "trait_type": "Year Mint",
+            "value": "2024"
+        },
+        {
+            "trait_type": "Team",
+            "value": "Huskies"
+        },
+        {
+            "trait_type": "Membership type",
+            "value": "Premium"
+        }
+    ]
+}

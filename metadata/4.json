@@ -1,0 +1,25 @@
+{
+    "name": "Huskies 004",
+    "address": "0004",
+    "description": "You are the FOURTH member of Huskies!",
+    "image": "https://bafybeie7skldhaobp5byxbgrpb2ofija5vkkbnyka2v2tzjij3xpuporvq.ipfs.cf-ipfs.com/",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Price",
+            "value": 0.005
+        },
+        {
+            "trait_type": "Year Mint",
+            "value": "2024"
+        },
+        {
+            "trait_type": "Team",
+            "value": "Huskies"
+        },
+        {
+            "trait_type": "Membership type",
+            "value": "Standard"
+        }
+    ]
+}
