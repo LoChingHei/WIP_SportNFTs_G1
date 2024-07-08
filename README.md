@@ -15,6 +15,10 @@ The NFTs can be leveraged to teach students about digital arts or blockchain tec
 ### Sports development:
 raise fund for some initiatives to support local soccer clubs or youth programs
 
+## Architecture Diagram
+
+![image](https://github.com/LoChingHei/WIP_SportNFTs_G1/assets/72778161/924f4574-c61a-4d8b-b85d-50849127d2c2)
+
 ## Technical Specifications
 ### 1. Smart Contracts
 Language: Solidity
