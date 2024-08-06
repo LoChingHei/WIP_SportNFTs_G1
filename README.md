@@ -34,6 +34,7 @@ Database: MongoDB for user profiles (We can also store the transaction history, 
 RESTful API using Express for frontend-backend communication
 ### 5. Application 
 <img width="1440" alt="1" src="https://github.com/user-attachments/assets/51a152af-7abf-4c30-84f4-066c7ae2c1c1">
+
 ### Using a crypto wallet for logging into this web application is a secure and user-friendly method that leverages the unique properties of blockchain technology. This approach eliminates the need for traditional passwords and uses cryptographic proofs for authentication. Besides, it makes login procss more efficient and simple.
 
 <img width="1440" alt="2" src="https://github.com/user-attachments/assets/4a2214dd-884f-49a7-b4ce-62dc1d572bec">
