@@ -1,11 +1,9 @@
 # World Cup NFTs 
 
 ## Project Overview
-Develop an NFT platform dedicated to the World Cup 2026 using Ethereum as the blockchain platform. The platform will offer digital collectibles representing memorable moments, players, and teams from the tournament. Users will be able to buy and sell NFTs with using our platform.
-One of the important features is that part of the purchasing prices can go to the teams that the buyer want to donate to, in which fans can support the teams 
-they want and the team can use the fund for continuous development. 
+The project Sport Key aims to develop a specialized NFT platform tailored for colleges and universities, providing a unique digital membership experience. This platform will not only offer digital memberships but also feature NFTs representing memorable moments, standout players, and iconic teams from collegiate tournaments. Users will have the ability to buy, sell, and trade these NFTs, creating a dynamic and engaging marketplace. Additionally, membership holders will benefit from a streamlined process to join events, making event participation simple and convenient. This innovative approach will enhance the connection between educational institutions and their communities, leveraging blockchain technology to create lasting digital memorabilia and simplified access to collegiate events.
 
-Provide an experience to football fans around the world by offering exclusive NFT collectibles and, at the same time, bring that audience closer to the topics of Web3 and blockchain. The project can extend to other sport events as well such as the Olympics.
+
 ### Fan Engagement:
 gain more attention to the event from those soccer fans and NFT players
 provide a community where NFT holders can trade their collections
