@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Football Championship", "date": "2024-08-12", "location": "Stadium A", "membership": "Huskies" },
+    { "id": 2, "name": "Basketball Tournament", "date": "2024-08-15", "location": "Arena B", "membership": "Huskies, General" },
+    { "id": 3, "name": "Tennis Open", "date": "2024-09-01", "location": "Court C", "membership": "General" },
+    { "id": 4, "name": "Swimming Gala", "date": "2024-09-10", "location": "Pool D", "membership": "Huskies, General" },
+    { "id": 5, "name": "Marathon", "date": "2024-10-05", "location": "City Center", "membership": "Toronto Running Clue" }
+]
