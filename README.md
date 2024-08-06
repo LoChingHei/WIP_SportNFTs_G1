@@ -33,3 +33,26 @@ Database: MongoDB for user profiles (We can also store the transaction history, 
 ### 4. API Development
 RESTful API using Express for frontend-backend communication
 ### 5. Application 
+<img width="1440" alt="1" src="https://github.com/user-attachments/assets/51a152af-7abf-4c30-84f4-066c7ae2c1c1">
+Simple login with crypto wallet.
+
+<img width="1440" alt="2" src="https://github.com/user-attachments/assets/4a2214dd-884f-49a7-b4ce-62dc1d572bec">
+Shop your membership in the marketplace.
+
+<img width="1440" alt="3" src="https://github.com/user-attachments/assets/b359edc7-a954-454f-b81b-34ab10d80898">
+Users can buy the NFTs with cryptocurrency or fiate currency. Besides, users can select the teams they wanted to support and the fund will directly deposit to the selected team.
+
+<img width="1440" alt="4" src="https://github.com/user-attachments/assets/6113e638-c4ae-4bcb-92e8-7d81e7471157">
+User can purchase the membership quickly and easily.
+
+<img width="1440" alt="5" src="https://github.com/user-attachments/assets/bd77a0bf-3c2a-4773-8c08-d994c4122966">
+<img width="1440" alt="6" src="https://github.com/user-attachments/assets/cc28b9bd-fc40-498f-bc6b-6234853f95b7">
+Membership holders can join the activities/events created by sport clubs or teams according to the specific membership type.
+
+###Sport club or Sport team
+<img width="1439" alt="7" src="https://github.com/user-attachments/assets/8b2a7755-2c23-42a7-9625-fe0387270b16">
+<img width="1440" alt="8" src="https://github.com/user-attachments/assets/fea5c09f-566f-4cd8-bf75-b4db36242517">
+
+Registered Organisms can create events and they can mint NFTs memberships according for members.
+
+
