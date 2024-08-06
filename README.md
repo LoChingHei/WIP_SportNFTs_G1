@@ -4,14 +4,14 @@
 The project Sport Key aims to develop a specialized NFT platform tailored for colleges and universities, providing a unique digital membership experience. This platform will not only offer digital memberships but also feature NFTs representing memorable moments, standout players, and iconic teams from collegiate tournaments. Users will have the ability to buy, sell, and trade these NFTs, creating a dynamic and engaging marketplace. Additionally, membership holders will benefit from a streamlined process to join events, making event participation simple and convenient. This innovative approach will enhance the connection between educational institutions and their communities, leveraging blockchain technology to create lasting digital memorabilia and simplified access to collegiate events.
 
 
-### Fan Engagement:
-gain more attention to the event from those soccer fans and NFT players
-provide a community where NFT holders can trade their collections
+### Engagement:
+People can use NFTs as a membership to join events that registered organization created.
+
 ### Education:
-Promote knowledge about the history of the World Cup and famous players and teams.
+Promote knowledge about different sports and knowledge about blockchain. 
 The NFTs can be leveraged to teach students about digital arts or blockchain technologies.
 ### Sports development:
-raise fund for some initiatives to support local soccer clubs or youth programs
+Raise fund for some initiatives to support local athletes clubs or youth programs
 
 ## Architecture Diagram
 
@@ -32,3 +32,4 @@ Metadata: IPFS (InterPlanetary File System) for decentralized storage of NFT met
 Database: MongoDB for user profiles (We can also store the transaction history, and other application data)
 ### 4. API Development
 RESTful API using Express for frontend-backend communication
+### 5. Application 
