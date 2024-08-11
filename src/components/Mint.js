@@ -96,32 +96,52 @@ const Mint = ({ provider, account }) => {
   };
 
   return (
-    <div className="mint">
-      <h2>Mint Your NFT</h2>
-      <input type="file" onChange={handleFileChange} />
-      <input
-        type="text"
-        name="name"
-        placeholder="Name"
-        value={metadata.name}
-        onChange={handleChange}
-      />
-      <input
-        type="text"
-        name="description"
-        placeholder="Description"
-        value={metadata.description}
-        onChange={handleChange}
-      />
-      <input
-        type="text"
-        name="number"
-        placeholder="Number in Collection"
-        value={metadata.number}
-        onChange={handleChange}
-      />
-      <button onClick={handleMint}>Mint NFT</button>
-    </div>
+     <div className="mint-container">
+    <h2>Mint Your NFT</h2>
+    <form className="mint-form">
+      <div className="form-group">
+        <label htmlFor="file-upload" className="custom-file-upload">
+          Upload Image
+        </label>
+        <input id="file-upload" type="file" onChange={handleFileChange} />
+      </div>
+      <div className="form-group">
+        <label htmlFor="name">Name</label>
+        <input
+          type="text"
+          id="name"
+          name="name"
+          placeholder="Name"
+          value={metadata.name}
+          onChange={handleChange}
+        />
+      </div>
+      <div className="form-group">
+        <label htmlFor="description">Description</label>
+        <textarea
+          id="description"
+          name="description"
+          placeholder="Description"
+          value={metadata.description}
+          onChange={handleChange}
+        />
+      </div>
+      <div className="form-group">
+        <label htmlFor="number">Number in Collection</label>
+        <input
+          type="number"
+          id="number"
+          name="number"
+          placeholder="Number in Collection"
+          value={metadata.number}
+          onChange={handleChange}
+        />
+      </div>
+      <button type="button" onClick={handleMint} className="mint-button">
+        Mint NFT
+      </button>
+    </form>
+  </div>
   );
 };
 
