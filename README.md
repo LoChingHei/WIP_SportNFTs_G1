@@ -1,4 +1,4 @@
-# World Cup NFTs 
+# College Sport Teams NFTs 
 
 ## Project Overview
 The project Sport Key aims to develop a specialized NFT platform tailored for colleges and universities, providing a unique digital membership experience. This platform will not only offer digital memberships but also feature NFTs representing memorable moments, standout players, and iconic teams from collegiate tournaments. Users will have the ability to buy, sell, and trade these NFTs, creating a dynamic and engaging marketplace. Additionally, membership holders will benefit from a streamlined process to join events, making event participation simple and convenient. This innovative approach will enhance the connection between educational institutions and their communities, leveraging blockchain technology to create lasting digital memorabilia and simplified access to collegiate events.
