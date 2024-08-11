@@ -3,6 +3,7 @@ import axios from 'axios';
 import { ethers } from 'ethers';
 import RealEstate from '../abis/RealEstate.json';
 import config from '../config.json';
+import './Mint.css';
 
 const Mint = ({ provider, account }) => {
   const [image, setImage] = useState(null);
